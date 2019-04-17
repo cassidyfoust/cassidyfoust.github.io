@@ -10,6 +10,12 @@ body {
   display: flex;
 }
 
+.heading {
+  border: 1px solid #000;
+  text-align: center;
+  padding: 30px;
+}
+
 .main {
   padding-left: 30px;
   min-width: 75%;
