@@ -27,6 +27,6 @@ body {
   background-color: rgb(204,231,227);
   max-width: 15%;
   min-width: 100px;
-  flex: 1;
+  display: flex;
   padding: 30px
 }
