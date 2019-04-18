@@ -26,7 +26,7 @@ body {
 .nav {
   background-color: rgb(204,231,227);
   max-width: 15%;
-  min-width: 100px;
+  min-width: 200px;
   flex: 1;
   padding: 30px;
 }
