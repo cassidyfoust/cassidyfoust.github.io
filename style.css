@@ -22,9 +22,6 @@ body {
   display: block;
   float: right;
    background-color: rgba(0, 0, 0, 0);
-    position: absolute;
-    top: 0;
-    left: 0;
     width: 75%;
     height: 75%;
 }
