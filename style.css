@@ -18,7 +18,8 @@ body {
 .main {
   padding-left: 30px;
   min-width: 75%;
-  background-image: url("https://img.freepik.com/free-vector/watercolour-abstract-background_1048-9210.jpg?size=626&ext=jpg");
+  background-image: url("http://wellworthsurgical.com/wp-content/uploads/parser/watercolor-background-hd-1.png");
+  display: flex;
 }
 
 .nav {
