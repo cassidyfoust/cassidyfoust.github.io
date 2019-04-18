@@ -19,11 +19,9 @@ body {
   padding-left: 30px;
   min-width: 75%;
   background-image: url("http://wellworthsurgical.com/wp-content/uploads/parser/watercolor-background-hd-1.png");
+  opacity: 0.5;
   display: block;
   float: right;
-   background-color: rgba(0, 0, 0, 0.7);
-    width: 75%;
-    height: 75%;
 }
 
 .nav {
