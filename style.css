@@ -23,6 +23,14 @@ body {
   float: right;
 }
 
+.layer {
+    background-color: rgba(248, 247, 216, 0.7);
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 75%;
+    height: 75%;
+
 .nav {
   background-color: rgb(204,231,227);
   max-width: 15%;
