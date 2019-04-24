@@ -18,8 +18,7 @@ body {
 .main {
   padding-left: 30px;
   min-width: 75%;
-  background-color: rgb(230,242,232);
-  font-color: white;
+  background-color: white;
   display: block;
   float: right;
 }
