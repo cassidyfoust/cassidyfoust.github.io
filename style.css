@@ -3,7 +3,7 @@ p {
 }
 body {
   font-family: 'Lato', sans-serif;
-  background-color: white
+  background-color: rgb(239,119,71)
 }
 
 .container {
@@ -18,7 +18,7 @@ body {
 .main {
   padding-left: 30px;
   min-width: 75%;
-  background-image: url("http://sfwallpaper.com/images/backgrounds-pink-24.jpg");
+  background-color: rgb(230,242,232);
   font-color: white;
   display: block;
   float: right;
@@ -29,7 +29,7 @@ body {
 }
 
 .nav {
-  background-color: rgb(204,231,227);
+  background-color: rgb(234,119,71);
   max-width: 15%;
   min-width: 200px;
   flex: 1;
